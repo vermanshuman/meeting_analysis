@@ -3,13 +3,6 @@
 MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
 
 
-## Demo
-
-Check out this demo video to see MeetingMind in action:
-
-https://github.com/user-attachments/assets/50a9de7a-b24f-4167-9526-4e112b1d24f8
-
-
 
 ## Features
 
@@ -49,8 +42,8 @@ Ensure your compressed audio maintains sufficient quality for accurate transcrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/meetingmind.git
-   cd meetingmind
+   git clone https://github.com/vermanshuman/meeting_analysis
+   cd meeting_analysis
    ```
 
 2. Install dependencies:
